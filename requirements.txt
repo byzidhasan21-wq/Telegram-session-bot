@@ -1,7 +1,0 @@
-telethon
-pyrogram
-aiosqlite
-python-dotenv
-PySocks
-tgcrypto
-aiogram==2.23.1
